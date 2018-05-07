@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Weather Forcast Web Application",
   "main": "index.js",
+  "homepage": "https://github.com/saeed-777/react-weather-app.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "create-react-app": "./node_modules/.bin/create-react-app"
