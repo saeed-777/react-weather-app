@@ -4,11 +4,20 @@ A web application to search for weather by using city name.
 
 ## Getting Started
 
-run npm install on 'root' folder and 'app' folder
+run on 'root' folder and 'app' folder
+```bash
+npm install
+``` 
 
-once installed, run npm build on the app folder
+Build the application in 'app' folder,
+```bash
+npm build
+``` 
 
-The application is ready, so start up the server by running noder server on the root folder.
+After Build Completion start up the server from 'root' folder
+```bash
+node server
+``` 
 
 ## Authors
 
